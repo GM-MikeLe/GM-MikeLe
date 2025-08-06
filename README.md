@@ -40,26 +40,19 @@ With **4+ years** developing scalable web applications and AI-powered solutions,
 ### Infrastructure & AI Command ♘
 *Orchestrating complex systems with precision*
 
-**DevOps & Cloud:**
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white) ![Lens](https://img.shields.io/badge/Lens-3D90CE?style=flat-square&logo=lens&logoColor=white)
-
-**AI & Machine Learning:**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=flat-square&logoColor=white) 
-
-**Automation & Protocols:**
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![Windmill](https://img.shields.io/badge/Windmill-1E40AF?style=flat-square&logoColor=white) ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=grpc&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-8B5CF6?style=flat-square&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=grpc&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 
 ---
 
 ## ♗ Pattern Recognition
 
-| Domain | Strategic Approach | Impact |
-|--------|-------------------|---------|
-| **AI-Powered Systems** | Built ChessMind: hybrid OpenAI/Stockfish chess analytics platform (top 7.5%) | Optimized learning impact while minimizing computational costs |
-| **High-Performance Communication** | Implemented gRPC protocol for AI server communication | **40% latency reduction** in production systems |
-| **Cross-Functional Leadership** | Led international teams across 3 time zones (Australia, Italy, Vietnam) | Delivered 3 mission-critical features 2 weeks ahead of schedule |
-| **Process Optimization** | Built 3 automated dashboards eliminating manual processes | **30% overhead reduction**, saving 15+ hours weekly |
-| **Full-Stack Evolution** | Progressed from 30-member team contributor to mobile app project leader | Managed complete development lifecycles for 50K+ user platform |
+| Domain                             | Strategic Approach                                                           | Impact                                                          |
+| ---------------------------------- | ---------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| **AI-Powered Systems**             | Built ChessMind: hybrid OpenAI/Stockfish chess analytics platform (top 7.5%) | Optimized learning impact while minimizing computational costs  |
+| **High-Performance Communication** | Implemented gRPC protocol for AI server communication                        | **40% latency reduction** in production systems                 |
+| **Cross-Functional Leadership**    | Led international teams across 3 time zones (Australia, Italy, Vietnam)      | Delivered 3 mission-critical features 2 weeks ahead of schedule |
+| **Process Optimization**           | Built 3 automated dashboards eliminating manual processes                    | **30% overhead reduction**, saving 15+ hours weekly             |
+| **Full-Stack Evolution**           | Progressed from 30-member team contributor to mobile app project leader      | Managed complete development lifecycles for 50K+ user platform  |
 
 ---
 
@@ -67,11 +60,11 @@ With **4+ years** developing scalable web applications and AI-powered solutions,
 
 **Phase 1: Analyze the Position** → **Phase 2: Strategic Planning** → **Phase 3: Tactical Execution**
 
-| 🔍 **Analyze** | 📋 **Plan** | ⚡ **Execute** |
-|---------------|-------------|---------------|
+| 🔍 **Analyze**             | 📋 **Plan**            | ⚡ **Execute**         |
+| ------------------------- | --------------------- | --------------------- |
 | • Understand requirements | • Design architecture | • Implement solutions |
-| • Identify constraints | • Plan for scale | • Test thoroughly |
-| • Map dependencies | • Consider edge cases | • Deploy confidently |
+| • Identify constraints    | • Plan for scale      | • Test thoroughly     |
+| • Map dependencies        | • Consider edge cases | • Deploy confidently  |
 
 **Core Principles:**
 - **Think Three Moves Ahead**: Every decision considers future implications
@@ -97,13 +90,13 @@ With **4+ years** developing scalable web applications and AI-powered solutions,
 
 Ready to level up your development strategy? Let's discuss:
 
-| **Engagement Type** | **When to Reach Out** |
-|-------------------|---------------------|
-| 🤖 **AI Integration Consulting** | Looking to integrate AI/ML into your applications or optimize existing systems |
-| ⚡ **Performance Optimization** | Need to reduce latency, improve throughput, or scale your applications |
-| 🌍 **Cross-Platform Development** | Building mobile apps with Flutter or React Native, or full-stack web solutions |
-| 🚀 **Startup Technical Guidance** | Early-stage founder needing technical strategy and MVP development insight |
-| 📊 **Code Reviews & Architecture** | Want expert eyes on critical systems or technical decision validation |
+| **Engagement Type**               | **When to Reach Out**                                                          |
+| --------------------------------- | ------------------------------------------------------------------------------ |
+| 🤖 **AI Integration Consulting**   | Looking to integrate AI/ML into your applications or optimize existing systems |
+| ⚡ **Performance Optimization**    | Need to reduce latency, improve throughput, or scale your applications         |
+| 🌍 **Cross-Platform Development**  | Building mobile apps with Flutter or React Native, or full-stack web solutions |
+| 🚀 **Startup Technical Guidance**  | Early-stage founder needing technical strategy and MVP development insight     |
+| 📊 **Code Reviews & Architecture** | Want expert eyes on critical systems or technical decision validation          |
 
 ### Connect & Collaborate
 
@@ -111,11 +104,11 @@ Ready to level up your development strategy? Let's discuss:
 - 📧 **Email**: [michaelle.dev@gmail.com](mailto:michaelle.dev@gmail.com)
 - 📍 **Location**: Ho Chi Minh City, Vietnam
 - 📞 **Phone**: (+84) 0939299166
-- 💼 **LinkedIn**: [Connect with me on LinkedIn]
-- 📅 **Schedule**: [Book a consultation]
+- 💼 **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/michael-le-0b2a44232/)
+- 📅 **Schedule**: [Book a consultation](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ1pBX6wK2oEUk4Stbjz_C5E2ApYMLtSXvSHZOTaImqcRmi_Gtp5And2v7W_Ac-b3YDN5OBWRian)
 
 ---
 
-*"Every chess master was once a beginner. Every expert developer started with 'Hello, World.' Masters are simply those who never stopped learning."*
+*"The grandmaster doesn't just play the position—they play the player, the clock, and the consequences of every move. In development, every line of code is a move toward victory."*
 
 **♔ Checkmate.**
