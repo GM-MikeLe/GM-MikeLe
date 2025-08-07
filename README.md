@@ -1,4 +1,4 @@
-# ♔ Michael Le - The Full-Stack Grandmaster
+# ♔ Michael Le - A Noob
 
 *Every bug is a puzzle, every feature is a strategic move, and every codebase tells a story.*
 
